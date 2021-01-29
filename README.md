@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 My name is Santiago Montiel Marín, currently studying the fourth and last year of a BSc degree in Electronics and Industrial Automation Engineering at University of Alcalá. As a research staff member of RobeSafe Research Group (Electronics Department, University of Alcalá), I am developing my Final's Degree Project "Multi Object-Tracking system based on LiDAR and RADAR for Intelligent Vehicles applications" under the supervision of Prof. Luis Miguel Bergasa and PhD student Carlos Gómez Huélamo. I would like this project to become the starting point of my research career. Main areas of interest consist of Computer Vision, Machine Learning, Deep Learning, Robotics, Embedded Systems, Perception in Intelligent Vehicles and any field related to these. 
 
 - 👾 My main languages are: C/C++, Python, VHDL
-- 📚 I'm currently learning: Perception algorithms for self-driving, graphics interfaces for robotics applications, hardware desing with FPGAs.
+- 📚 I'm currently learning: Perception algorithms for self-driving applications, graphic interfaces for robotics applications, hardware desing with FPGAs.
