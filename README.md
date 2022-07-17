@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-montiel-mar%C3%ADn-07401b19b/)
 [![GitHub](https://img.shields.io/badge/GitHub-4C4C4C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiMontiel)
 
-My name is **Santiago Montiel Marín**, currently studying the fourth and last year of a BSc degree in Electronics and Industrial Automation Engineering at University of Alcalá. As a **research staff member of RobeSafe Research Group** (Electronics Department, University of Alcalá), I am developing **my Bachelor's Degree Thesis "Multi Object-Tracking system based on LiDAR and RADAR for Intelligent Vehicles applications"** under the supervision of Prof. Luis Miguel Bergasa and PhD student Carlos Gómez Huélamo. I would like this project to become the starting point of my research career. 
+Welcome to my profile! 🤗
 
-- 👾 My main languages are: C/C++, Python, VHDL
-- 📚 I'm currently learning: Perception algorithms for self-driving applications, graphic interfaces for robotics applications, hardware desing with FPGAs.
-- 🤔 My main areas of interest are: Deep Learning, Machine Learning, Robotics, Embedded Systems, Hardware Design with FPGAs.
+📚 I am a researcher and master's student at University of Alcalá. Right now, my work on research is focused on RADAR Perception for Autonomous Vehicles using state-of-the-art sensors and Machine Learning algorithms. As for the student aspect, I am currently on the second year of a M. Sc. degree in Industrial Engineering, focused on Robotics and Perception.
+
+🤖 As for my previous notable works, I developed my Bachelor's Final Project: "Multi-Object Tracking system based on LiDAR and RADAR for Intelligent Vehicles applications" which was qualified with Honors. I designed a traditional ML-based perception pipeline performing a sensor fusion between both sensors. I was also a member of UAH Robotics Team for three years (2019-2022). We became the Champions of Eurobot Spain (April 2022) and we participated in the Eurobot International Finals at France (May 2022).
+
+🖥️ During my upcoming projects, I would like to focus on learning Deep Learning techniques for Computer Vision and Point Clouds (2D/3D Object Detection and Semantic Segmentation) and the theoretical background behind these tecnologies.
