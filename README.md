@@ -1,4 +1,4 @@
-### Hi there, I'm Santi Montiel, Industrial Electronics Engineering student 👋
+### Welcome to my profile! 🤗
 
 <!--
 **SantiMontiel/SantiMontiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-montiel-mar%C3%ADn-07401b19b/)
 [![GitHub](https://img.shields.io/badge/GitHub-4C4C4C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiMontiel)
 
-Welcome to my profile! 🤗
-
-📚 I am a researcher and master's student at University of Alcalá. Right now, my work on research is focused on RADAR Perception for Autonomous Vehicles using state-of-the-art sensors and Machine Learning algorithms. As for the student aspect, I am currently on the second year of a M. Sc. degree in Industrial Engineering, focused on Robotics and Perception.
+📚 I am a __researcher__ and __master's student__ at University of Alcalá. Right now, my work on research is focused on RADAR Perception for Autonomous Vehicles using state-of-the-art sensors and Machine Learning algorithms. As for the student aspect, I am currently on the second year of a M. Sc. degree in Industrial Engineering, focused on Robotics and Perception.
 
 🤖 As for my previous notable works, I developed my Bachelor's Final Project: "Multi-Object Tracking system based on LiDAR and RADAR for Intelligent Vehicles applications" which was qualified with Honors. I designed a traditional ML-based perception pipeline performing a sensor fusion between both sensors. I was also a member of UAH Robotics Team for three years (2019-2022). We became the Champions of Eurobot Spain (April 2022) and we participated in the Eurobot International Finals at France (May 2022).
 
